@@ -1,4 +1,4 @@
-# ☕ Café Aurora - Página Web
+
 
 Este proyecto es una maqueta web básica de una cafetería llamada Café Venecia
 
